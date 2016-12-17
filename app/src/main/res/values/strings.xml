@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">efccp</string>
+
+
+
+
+    <string name="app_error">app_error</string>
+    <string name="app_error_message">app_error_message</string>
+    <string name="submit_report">submit_report</string>
+    <string name="sure">sure</string>
+
+    <string name="http_status_code_error">http_status_code_error</string>
+    <string name="http_exception_error">http_exception_error</string>
+    <string name="socket_exception_error">socket_exception_error</string>
+    <string name="network_not_connected"></string>
+    <string name="xml_parser_failed">xml_parser_failed</string>
+    <string name="io_exception_error">io_exception_error</string>
+    <string name="app_run_code_error">app_run_code_error</string>
+</resources>
